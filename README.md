@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="https://lh3.googleusercontent.com/d/1_MMTSX5MXsnBuc5f9-iVQckdIFBfH7W0" 
+  <img src="https://drive.google.com/uc?export=view&id=1_MMTSX5MXsnBuc5f9-iVQckdIFBfH7W0" 
        alt="MIKU THUMBNAIL" 
        style="max-width: 100%; height: auto; display: block; margin: auto;">
 </p>
+
 
 <h1 align="center">
   MIKU-CHAN ESM <br><BR>
