@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://lh3.googleusercontent.com/d/1_MMTSX5MXsnBuc5f9-iVQckdIFBfH7W0" 
-       alt="NAO-MD THUMBNAIL" 
+       alt="MIKU THUMBNAIL" 
        style="max-width: 100%; height: auto; display: block; margin: auto;">
 </p>
 
@@ -73,8 +73,8 @@
 
 #### HOW TO SETUP?
 ```bash
-$ git clone https://github.com/ShirokamiRyzen/Nao-MD
-$ cd Nao-MD
+$ git clone https://github.com/Xmorinori/MIKU-CHAN-ESM
+$ cd MIKU-CHAN
 $ npm i
 ```
 
