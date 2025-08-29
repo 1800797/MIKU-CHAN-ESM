@@ -96,6 +96,10 @@ npm start
 3. FOLLOW MY [GITHUB](https://github.com/Xmorinori) !  
 4. USE WITH YOUR OWN RISK !  
 
+## Status Bot
+
+Kalau ingin melihat bot sedang **down** atau **tidak**, klik tautan berikut:  
+[Cek Status Bot](https://maintenance.advinservers.com/cmdu86fmy00yfy6jgi3h8qvc3)
 
 ---------
 
